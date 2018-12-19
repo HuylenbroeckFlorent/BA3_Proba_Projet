@@ -1,0 +1,7 @@
+Pour quantifier la qualité d'un traitement d'images pour reconnaître des empreintes digitales, 
+il est courant de mesurer le temps CPU pour reconnaître les empreintes d'une certaine base de données. 
+Trois nouveaux types d'algorithmes ont été testés en ajoutant une part de bruit à ces images de 
+référence. la part de bruit est exprimée en échelle relative (%).  Les résultats ont été repris 
+ci-dessous en détaillant la fraction de détection efficace(%) en fonction du bruit.
+Pouvez-vous en déduire qu'il existe un meilleur algorithme ?
+Justifier votre réponse.
